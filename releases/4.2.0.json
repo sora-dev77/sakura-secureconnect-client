@@ -1,0 +1,7 @@
+{
+  "product": "Sakura SecureConnect VPN",
+  "version": "4.2.0",
+  "channel": "stable",
+  "key_id": "SR-REL-2019",
+  "signature": "synthetic-training-signature"
+}

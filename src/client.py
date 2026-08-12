@@ -1,7 +1,7 @@
 """Minimal SecureConnect client metadata used by the training repository."""
 
 PRODUCT_NAME = "Sakura SecureConnect VPN"
-CLIENT_VERSION = "4.1.0"
+CLIENT_VERSION = "4.2.0"
 
 
 def client_banner() -> str:
