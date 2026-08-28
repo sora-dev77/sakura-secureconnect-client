@@ -7,7 +7,3 @@ Desktop client components and update-channel configuration for Sakura SecureConn
 ```bash
 python -m pytest
 ```
-
-## Training notice
-
-This repository is a controlled SECCAP training artefact. It does not contain production software or real organizational data.
